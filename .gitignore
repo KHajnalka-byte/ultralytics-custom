@@ -170,3 +170,6 @@ calibration_*.npy
 
 # Data folder
 /data/
+
+# Workspace
+/examples/
